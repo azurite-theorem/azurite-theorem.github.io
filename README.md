@@ -1,1 +1,1 @@
-# azurite-throrem.github.io
+# azurite-theorem.github.io
